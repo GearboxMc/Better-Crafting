@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "deb",
+    "dda"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:blaze_rod"
+    },
+    "b": {
+      "item": "minecraft:leather"
+    },
+    "c": {
+      "item": "minecraft:diamond_block"
+    },
+    "d": {
+      "item": "minecraft:experience_bottle"
+    },
+    "e": {
+      "item": "minecraft:gray_dye"
+    }
+  },
+  "result": {
+    "id": "minecraft:elytra",
+    "count": 1
+  }
+}
